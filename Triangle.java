@@ -59,5 +59,4 @@ public class Triangle extends GeometricObject {
       " side3 = " + side3 + super.toString();
   }
 
-
 }
